@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Caspar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vndrks&show_icons=true&theme=radical)
+![Caspar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vndrks&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vndrks&layout=compact)
 
