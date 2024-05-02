@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I lost my original github account. So I will be using this account from Mar 2024.
+I have been using this account since March 2024.
 
 Writing readme...
 
