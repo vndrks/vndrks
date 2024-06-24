@@ -36,6 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Link Expired : June 25, 2024
-https://bird-catsup-583.notion.site/for-PT-Come-along-with-me-b4100fadad184315babe29cf1ca5b98c
