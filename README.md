@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I have been using this account since March 2024.
-
-Writing readme...
-
 e-mail vndrks@gmail.com , vndrks@naver.com
 
 
